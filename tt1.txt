@@ -6,3 +6,6 @@
 #Suntraction function
 5=3-2
 
+#division
+4=12/3
+
