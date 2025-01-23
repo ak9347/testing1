@@ -2,3 +2,7 @@
 
 #Addidtion funtion
 3=2+1
+
+#Suntraction function
+5=3-2
+
