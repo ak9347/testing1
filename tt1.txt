@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#Addidtion funtion
+3=2+1
