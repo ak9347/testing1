@@ -6,14 +6,6 @@ terraform {
     }
   }
 }
-terraform{
-    backend "s3"{
-        bucket = "my-bucket-d779c71"
-        key = "state"
-        region = "us-east-1"
-        dynamodb_table = "Practice"
-    }
-}
 
 provider "aws" {
   # Configuration options

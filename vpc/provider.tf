@@ -11,7 +11,7 @@ terraform{
         bucket = "my-bucket-d779c71"
         key = "state"
         region = "us-east-1"
-        dynamodb_table = "Practice"
+        dynamodb_table = "practice"
     }
 }
 
